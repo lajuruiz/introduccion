@@ -18,7 +18,7 @@ else:
     print('es menor o igual a 4')
     print(variable * 3)
 
-
+#  condicion
 print('\n Condicion \n')
 
 variable = 3
