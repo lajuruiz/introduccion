@@ -21,3 +21,4 @@ if variable < 2:
     print('es menor a 2 ' , variable * 8 )
 else:
     print('es mayor a 2', variable * 1020 )
+#condicional if
